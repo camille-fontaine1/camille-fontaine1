@@ -1,5 +1,13 @@
-## Hi there 👋
 
+![BatadMountains](https://github.com/user-attachments/assets/cafe6b9d-4534-4eb2-8a2a-4d13d252e7fe)
+
+## Full Stack Developer | Developer Analyst
+
+Hey there!
+
+I'm Camille, a web developer with a passion with bringing to life **modern** and **accessible** designs.
+
+Checkout my [website](https://camille-fontaine.vercel.app/) to see what I've been up to lately!
 <!--
 **camille-fontaine1/camille-fontaine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

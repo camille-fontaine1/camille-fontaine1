@@ -7,7 +7,7 @@ Hey there!
 
 I'm Camille, a web developer with a passion with bringing to life **modern** and **accessible** designs.
 
-Checkout my [website](https://camille-fontaine.vercel.app/) to see what I've been up to lately!
+Checkout my [portfolio](https://camille-fontaine.vercel.app/) to see what I've been up to lately!
 <!--
 **camille-fontaine1/camille-fontaine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

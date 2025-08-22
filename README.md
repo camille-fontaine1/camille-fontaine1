@@ -7,6 +7,6 @@ Hey there!
 
 I'm Camille, a web developer with a passion with bringing to life **modern** and **accessible** designs.
 
-💻 Creator of **[JsFixture](https://github.com/js-fixture)**, a type-safe test fixture generator for JavaScript/TypeScript projects.
+💻 Creator of **[JsFixture](https://www.npmjs.com/package/@js-fixture/core)**, a type-safe test fixture generator for JavaScript/TypeScript projects.
 
 **Checkout my [portfolio](https://camillefontaine.dev/) to see what I've been up to lately, or read my posts on [Medium](https://medium.com/@camille.fontaine93)!**
